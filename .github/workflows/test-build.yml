@@ -1,4 +1,5 @@
 name: Build Android test APK
+# Rebuild from shared source after the mobile TLS fix.
 
 on:
   workflow_dispatch:
